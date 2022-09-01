@@ -1,1 +1,1 @@
-console.log(działą);
+console.log("działą");
