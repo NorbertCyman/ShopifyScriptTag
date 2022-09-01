@@ -1,1 +1,1 @@
-conosle.log("dziala");
+console.log(działą);
