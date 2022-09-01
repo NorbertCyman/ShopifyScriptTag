@@ -1,1 +1,1 @@
-alert('haloe');
+conosle.log("dziala");
